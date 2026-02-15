@@ -5,7 +5,7 @@ Sebastian Jaculbe
 Credit: LearnWebCode (Brad Schiff)
 ## Date Created and Updated:
 Created: February 14th, 2026
-Updated: February 14th, 2026
+Updated: February 15th, 2026
 ## Description:
 A project that creates a web application that displays images of various dog breeds in a slide show utilizing a public API based on HTTP(s), JSON, and AJAX through the assistance of [Dogs, JavaScript & An API 🐶 Fetch, Promises & Async Await ](https://www.youtube.com/watch?v=AVmGmLFcukM).
 ALL CODE BELONGS TO BRAD SCHIFF.

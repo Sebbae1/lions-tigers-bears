@@ -1,7 +1,7 @@
 /*
     Author: Sebastian Jaculbe - Credit: LearnWebCode (Brad Schiff)
     Created: February 14th, 2026
-    Updated: February 14th, 2026
+    Updated: February 15th, 2026
 */
 
 html, body {
@@ -10,6 +10,7 @@ html, body {
     font-family: 'Times New Roman', Times, serif;
 }
 
+/* App Container */
 .app {
     height: 100%;
     width: 100%;
@@ -30,6 +31,7 @@ html, body {
     font-size: 1rem;
 }
 
+/* Slideshow Container */
 .slideshow {
     flex: 1;
     background-color: #333;
